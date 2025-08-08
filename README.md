@@ -2,7 +2,7 @@
 
 This project is a full-stack Food Delivery Website designed to provide a seamless and efficient experience for customers to browse, order food, and track their deliveries. It also includes an admin dashboard for managing food items, orders, and other essential operations.
 
-![Frontend Home](docs/screenshots/main.jpeg)
+![Main Home](Docs/Screenshots/main.jpeg)
 
 Overview
 The Food Delivery App is built with a modern tech stack and aims to simplify the entire food ordering process — from selecting meals to payment and order management. Whether you're a customer looking to order your favorite dishes or an admin managing the restaurant’s menu and orders, this application covers all the bases.
@@ -31,10 +31,10 @@ The application consists of three main components:
 
 1. Frontend (Customer App)
 Built with React (or your frontend framework) to offer a rich and interactive user experience.
-![Frontend Home](docs/screenshots/cart.jpeg)
+![Frontend Home](Docs/Screenshots/cart.jpeg)
 
 Features include menu browsing shopping cart, user authentication, and order tracking.
-![Frontend Home](docs/screenshots/dish.jpeg)
+![Cart](Docs/Screenshots/dish.jpeg)
 
 2. Backend (Server)
 Developed using Node.js and Express (or your backend tech) to handle API requests, business logic, and data management.
@@ -45,7 +45,7 @@ Responsible for processing orders, user authentication, payment integration with
 A protected dashboard for administrators to manage food items, update availability, monitor order statuses, and generate reports.
 
 Includes secure login and role-based access control.
-![Frontend Home](docs/screenshots/admin.jpeg)
+![Admin Panel](Docs/Screenshots/admin.jpeg)
 
 Technologies Used
 Stripe: For secure and flexible payment processing.
