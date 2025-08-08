@@ -50,6 +50,7 @@ Includes secure login and role-based access control.
 Technologies Used
 Stripe: For secure and flexible payment processing.
 
+![Stripe](Docs/Screenshots/Screenshot 2025-08-09 011120.png)
 Cloudinary: For efficient image upload, storage, and delivery.
 
 MongoDB Atlas: Cloud-hosted NoSQL database for storing user data, orders, and menu items.
