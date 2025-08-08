@@ -58,4 +58,4 @@ React: For building the responsive frontend customer interface.
 
 Node.js & Express: For server-side logic and API endpoints.
 
-JWT / OAuth: For secure user authentication (if implemented).
+JWT / OAuth: For secure user authentication.
